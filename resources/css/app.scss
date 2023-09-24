@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+$fa-font-path:"~fa/../webfonts";
+@import "~fa/fontawesome.scss";
+@import "~fa/solid.scss";
+@import "~fa/regular.scss";
+
+@tailwind utilities;
